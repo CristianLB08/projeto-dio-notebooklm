@@ -296,13 +296,21 @@ As **Ondas Corretivas (A–B–C)** ocorrem após a conclusão de um ciclo de im
 
 ## 🤖 4.3 Prompts Reutilizáveis
 
-* "Explique ondas de Elliott como se eu fosse iniciante"
-* "Dê exemplos reais de ondas de Elliott no mercado"
-* "Como identificar ondas de impulso e correção?"
-* "Quais erros comuns ao usar ondas de Elliott?"
-* "Explique a relação entre Fibonacci e Elliott"
+* "Explique a teoria das Ondas de Elliott de forma didática, como para um iniciante, incluindo exemplos simples e analogias que facilitem a compreensão dos padrões de mercado."
+* "Descreva detalhadamente a estrutura das Ondas de Elliott, explicando as 5 ondas de impulso e as 3 ondas corretivas, incluindo as regras que validam cada uma delas e exemplos práticos no contexto do mercado financeiro."
+* "Forneça exemplos práticos de aplicação das Ondas de Elliott em gráficos de ativos financeiros, explicando como identificar cada onda e interpretar possíveis movimentos futuros do mercado."
+* "Explique passo a passo como identificar ondas de impulso e ondas corretivas em um gráfico, destacando critérios técnicos, sinais visuais e erros comuns cometidos por iniciantes."
 
 ---
 
 # 🧩 5. Conclusão
+
+Neste projeto, aprofundei meu entendimento sobre a teoria das Ondas de Elliott, compreendendo com mais clareza a estrutura das ondas, suas regras fundamentais e as diferentes variações que podem ocorrer no mercado. Esse processo foi essencial para desenvolver uma visão mais analítica sobre movimentos de preço e comportamento do mercado financeiro.
+
+O uso do NotebookLM foi um grande diferencial durante o estudo, pois permitiu acelerar significativamente a aprendizagem. A ferramenta não apenas organizou e sintetizou as informações das fontes selecionadas, como também expandiu o conteúdo com sugestões adicionais, trazendo mais de 20 novas referências complementares. Isso contribuiu para tornar o estudo mais completo, menos superficial e com maior profundidade conceitual.
+
+Além disso, a experiência com engenharia de prompts evidenciou a importância de saber interagir com a IA de forma estratégica, refinando perguntas para obter respostas mais relevantes e detalhadas.
+
+Como próximo passo, pretendo continuar utilizando o NotebookLM para aprofundar meus estudos em conceitos mais avançados de análise de mercado, como o Smart Money Concept (SMC), ampliando ainda mais minha base de conhecimento e capacidade analítica.
+
 
