@@ -9,18 +9,37 @@ Vou te guiar como se fosse um checklist prático.
 
 # 📌 1. Contexto e Objetivos
 
-Aqui você explica:
+Claro — vou te entregar uma versão já **bem estruturada, clara e com cara de projeto “nota 10”** 👇
 
-👉 O que são Ondas de Elliott
-👉 Por que escolheu esse tema
-👉 O que quer aprender
+---
 
-### Exemplo (pode adaptar):
+# 📌 Contexto
 
-* Entender como funcionam as Ondas de Elliott no mercado financeiro
-* Identificar padrões de impulsão e correção
-* Aplicar o conceito em análise técnica
-* Usar IA para organizar e aprofundar o conhecimento
+A análise técnica é uma das principais abordagens utilizadas no mercado financeiro para interpretar o comportamento dos preços e antecipar possíveis movimentos. Dentro desse universo, a teoria das Ondas de Elliott se destaca por propor que os mercados se movem em padrões repetitivos baseados na psicologia coletiva dos investidores.
+
+Esses padrões são formados por ciclos de impulsão e correção, que, quando bem identificados, podem ajudar na tomada de decisões mais estratégicas. No entanto, por se tratar de uma teoria complexa e muitas vezes subjetiva, seu aprendizado exige não apenas o estudo teórico, mas também prática, análise crítica e comparação entre diferentes fontes.
+
+Neste projeto, o uso de Inteligência Artificial — especialmente por meio do NotebookLM — foi aplicado como ferramenta de apoio para organizar informações, sintetizar conteúdos e aprofundar o entendimento sobre o tema, tornando o processo de aprendizagem mais eficiente e estruturado.
+
+---
+
+# 🎯 Objetivos
+
+## 🎯 Objetivo Geral
+
+Desenvolver uma compreensão sólida sobre a teoria das Ondas de Elliott, utilizando ferramentas de Inteligência Artificial para apoiar o processo de estudo, organização e análise das informações.
+
+---
+
+## 🎯 Objetivos Específicos
+
+* 📊 Compreender os fundamentos da teoria das Ondas de Elliott
+* 📈 Identificar e diferenciar ondas de impulso e ondas corretivas
+* 📐 Entender as regras e variações que estruturam cada onda
+* 🔍 Aplicar os conceitos em exemplos práticos de mercado financeiro
+* 🤖 Utilizar o NotebookLM para otimizar a curadoria e síntese de conteúdos
+* 🧠 Desenvolver habilidades de engenharia de prompts para extrair respostas mais precisas da IA
+* 📚 Criar um material de estudo organizado e reutilizável (miniguia)
 
 ---
 
@@ -313,4 +332,4 @@ Além disso, a experiência com engenharia de prompts evidenciou a importância 
 
 Como próximo passo, pretendo continuar utilizando o NotebookLM para aprofundar meus estudos em conceitos mais avançados de análise de mercado, como o Smart Money Concept (SMC), ampliando ainda mais minha base de conhecimento e capacidade analítica.
 
-
+---
