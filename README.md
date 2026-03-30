@@ -318,11 +318,13 @@ As **Ondas Corretivas (A–B–C)** ocorrem após a conclusão de um ciclo de im
 
 # 🧩 5. Conclusão
 
-Neste projeto, aprofundei meu entendimento sobre a teoria das Ondas de Elliott, compreendendo com mais clareza a estrutura das ondas, suas regras fundamentais e as diferentes variações que podem ocorrer no mercado. Esse processo foi essencial para desenvolver uma visão mais analítica sobre movimentos de preço e comportamento do mercado financeiro.
+Neste projeto, aprofundei meu entendimento sobre a teoria das Ondas de Elliott, compreendendo com mais clareza a estrutura das ondas, suas regras fundamentais e as diferentes variações que podem ocorrer no mercado. Esse processo foi essencial para desenvolver uma visão mais analítica sobre os movimentos de preço e o comportamento do mercado financeiro.
 
 O uso do NotebookLM foi um grande diferencial durante o estudo, pois permitiu acelerar significativamente a aprendizagem. A ferramenta não apenas organizou e sintetizou as informações das fontes selecionadas, como também expandiu o conteúdo com sugestões adicionais, trazendo mais de 20 novas referências complementares. Isso contribuiu para tornar o estudo mais completo, menos superficial e com maior profundidade conceitual.
 
-Além disso, a experiência com engenharia de prompts evidenciou a importância de saber interagir com a IA de forma estratégica, refinando perguntas para obter respostas mais relevantes e detalhadas.
+Além disso, a utilização das ferramentas do Estúdio do NotebookLM, como a criação de mapas mentais e quizzes interativos, foi extremamente eficaz para reforçar o aprendizado. Esses recursos ajudaram na fixação dos conceitos, na revisão do conteúdo e no desenvolvimento de uma compreensão mais estruturada do tema.
+
+Outro ponto importante foi a prática de engenharia de prompts, que evidenciou a importância de interagir com a IA de forma estratégica, refinando perguntas para obter respostas mais relevantes, detalhadas e úteis para o estudo.
 
 Como próximo passo, pretendo continuar utilizando o NotebookLM para aprofundar meus estudos em conceitos mais avançados de análise de mercado, como o Smart Money Concept (SMC), ampliando ainda mais minha base de conhecimento e capacidade analítica.
 
