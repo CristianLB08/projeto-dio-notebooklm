@@ -7,12 +7,6 @@ Vou te guiar como se fosse um checklist prático.
 
 ---
 
-# 📌 1. Contexto e Objetivos
-
-Claro — vou te entregar uma versão já **bem estruturada, clara e com cara de projeto “nota 10”** 👇
-
----
-
 # 📌 Contexto
 
 A análise técnica é uma das principais abordagens utilizadas no mercado financeiro para interpretar o comportamento dos preços e antecipar possíveis movimentos. Dentro desse universo, a teoria das Ondas de Elliott se destaca por propor que os mercados se movem em padrões repetitivos baseados na psicologia coletiva dos investidores.
