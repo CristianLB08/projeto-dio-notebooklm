@@ -56,56 +56,141 @@ As fontes abaixo foram selecionadas para garantir uma visão ampla e complementa
 
 ---
 
-# 🤖 3. Engenharia de Prompts e Aprendizados
+## 🤖 3. Engenharia de Prompts e "Cicatrizes"
 
-## Exemplo de evolução dos prompts
+## 🧪 Processo de Iteração de Prompts
+
+Durante o desenvolvimento do projeto, foi necessário iterar sobre diferentes versões de prompts para obter respostas mais completas, aplicáveis e menos genéricas.
 
 ---
 
-### 🔹 Prompt 1 (simples)
+### 🔹 Prompt 1 — Exploração Inicial
 
 **Prompt:**
+
 > Explique ondas de Elliott
 
-**Trecho da resposta:**
-"A Teoria das Ondas de Elliott é uma metodologia de análise técnica desenvolvida por Ralph Nelson Elliott..."
+**Resposta obtida (resumo):**
+Explicação conceitual básica sobre a teoria, definição e origem...
 
-**Problema:**
-Resposta muito genérica e pouco aprofundada.
+**Problemas identificados:**
+
+* Conteúdo **genérico e superficial**
+* Ausência de exemplos práticos
+* Não aborda aplicação no mercado real
+
+**Diagnóstico:**
+Prompt muito aberto → a IA prioriza definição básica.
 
 ---
 
-### 🔹 Prompt 2 (melhorado)
+### 🔹 Prompt 2 — Direcionamento Didático
 
 **Prompt:**
+
 > Explique as Ondas de Elliott com exemplos práticos e linguagem simples
 
-**Trecho da resposta:**
-"A Teoria das Ondas de Elliott é um modelo de análise técnica que interpreta os movimentos do mercado como padrões repetitivos baseados na psicologia das massas..."
+**Resposta obtida (resumo):**
+Explicação mais acessível, com menção a ciclos e comportamento do mercado...
 
-**Resultado:**
-Mais didático, porém ainda superficial e com poucos exemplos práticos.
+**Melhorias:**
+
+* Linguagem mais clara
+* Introdução de exemplos
+
+**Problemas ainda presentes:**
+
+* Exemplos **pouco profundos**
+* Falta de estrutura técnica detalhada
+* Não explora regras importantes
+
+**Diagnóstico:**
+Adicionar contexto ajudou, mas ainda faltava **especificidade técnica**.
 
 ---
 
-### 🔹 Prompt 3 (refinado)
+### 🔹 Prompt 3 — Especificação Técnica
 
 **Prompt:**
+
 > Explique detalhadamente as 5 ondas de impulso e 3 de correção, com exemplos aplicados ao mercado financeiro
 
-**Trecho da resposta:**
-"A Teoria das Ondas de Elliott propõe que o mercado financeiro se move em ciclos repetitivos de oito ondas..."
+**Resposta obtida (resumo):**
+Descrição completa da estrutura 5-3, incluindo comportamento das ondas e aplicação prática...
 
-**Resultado:**
-Resposta completa, estruturada e com maior aplicabilidade prática.
+**Melhorias:**
+
+* Estrutura clara (impulso + correção)
+* Conteúdo mais técnico
+* Maior aplicabilidade prática
+
+**Pontos fortes:**
+
+* Uso de contexto específico ("5 ondas", "3 correções")
+* Direcionamento para aplicação real
 
 ---
 
-### 💡 Dificuldades encontradas
+## 🧠 Principais "Cicatrizes" (Aprendizados Técnicos)
 
-- IA respondia de forma superficial
-- Falta de exemplos reais
-- Necessidade de refinar prompts
+### 1. Prompt genérico gera resposta genérica
+
+Quanto mais aberto o prompt, mais superficial tende a ser a resposta.
+
+---
+
+### 2. Contexto melhora, mas não garante profundidade
+
+Adicionar "exemplos" e "linguagem simples" melhora a didática, mas não garante conteúdo técnico.
+
+---
+
+### 3. Especificidade é o principal fator de qualidade
+
+Prompts que incluem:
+
+* Estrutura (ex: 5 ondas, 3 ondas)
+* Objetivo (explicar detalhadamente)
+* Contexto (mercado financeiro)
+
+→ geram respostas significativamente melhores.
+
+---
+
+### 4. A IA responde melhor a instruções "guiadas"
+
+Exemplo de melhoria futura de prompt:
+
+> Explique as Ondas de Elliott detalhadamente, separando por tópicos (onda 1 a 5 e A-B-C), incluindo:
+>
+> * características de cada onda
+> * psicologia do mercado
+> * exemplos práticos em gráficos
+
+---
+
+### 5. Iteração é essencial
+
+A qualidade da resposta não depende apenas da IA, mas da capacidade de:
+
+* testar variações
+* identificar falhas
+* ajustar o nível de detalhe
+
+---
+
+## ⚠️ Dificuldades Encontradas
+
+* Respostas iniciais muito superficiais
+* Falta de exemplos práticos relevantes
+* Necessidade de refinar prompts múltiplas vezes
+* Dificuldade em extrair conteúdo técnico sem direcionamento explícito
+
+---
+
+## 🚀 Conclusão da Engenharia de Prompts
+
+O processo demonstrou que a eficiência no uso de IA está diretamente ligada à qualidade dos prompts. A evolução das perguntas permitiu sair de respostas genéricas para explicações estruturadas e aplicáveis ao mercado financeiro.
 
 ---
 
