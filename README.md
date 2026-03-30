@@ -1,9 +1,6 @@
-# projeto-dio-notebooklm
-Neste projeto prático, você vai aliar pensamento crítico, curadoria de fontes e organização do conhecimento para criar um Caderno Temático no NotebookLM.
+# 📊 Miniguia de Ondas de Elliott com IA (NotebookLM)
 
-Perfeito — você já fez a parte mais difícil (coletar fontes e usar o NotebookLM). Agora o que falta é **transformar isso em um projeto bem estruturado no GitHub** que impressione quem avaliar 👇
-
-Vou te guiar como se fosse um checklist prático.
+Projeto desenvolvido para a DIO com foco no uso de Inteligência Artificial como ferramenta de aprendizagem ativa, explorando a teoria das Ondas de Elliott no mercado financeiro.
 
 ---
 
@@ -39,6 +36,8 @@ Desenvolver uma compreensão sólida sobre a teoria das Ondas de Elliott, utiliz
 
 # 📚 2. Curadoria de Fontes
 
+As fontes abaixo foram selecionadas para garantir uma visão ampla e complementar sobre a teoria das Ondas de Elliott, incluindo conteúdos introdutórios e avançados.
+
 ## 🎥 Vídeos
 
 * [https://www.youtube.com/watch?v=niyhE28JZJA](https://www.youtube.com/watch?v=niyhE28JZJA)
@@ -57,122 +56,56 @@ Desenvolver uma compreensão sólida sobre a teoria das Ondas de Elliott, utiliz
 
 ---
 
-# 🤖 3. Engenharia de Prompts + "Cicatrizes"
+# 🤖 3. Engenharia de Prompts e Aprendizados
 
-## Exemplo de estrutura:
+## Exemplo de evolução dos prompts
+
+---
 
 ### 🔹 Prompt 1 (simples)
 
-> "Explique ondas de Elliott"
-> "A Teoria das Ondas de Elliott é uma metodologia de análise técnica desenvolvida por **Ralph Nelson Elliott** na década de 1930, que interpreta os movimentos dos preços nos mercados financeiros como padrões repetitivos chamados "ondas". Esta teoria baseia-se na premissa de que os mercados não se movem de forma aleatória, mas seguem ciclos impulsionados pela **psicologia das massas**, oscilando entre o otimismo (euforia) e o pessimismo (pânico).
+**Prompt:**
+> Explique ondas de Elliott
 
-Abaixo estão os conceitos fundamentais para entender as ondas de Elliott:
+**Trecho da resposta:**
+"A Teoria das Ondas de Elliott é uma metodologia de análise técnica desenvolvida por Ralph Nelson Elliott..."
 
-### 1. A Estrutura Básica (Ciclo 5-3)
-Um ciclo completo de mercado, segundo Elliott, consiste em **oito ondas** divididas em duas fases principais:
-*   **Fase de Impulso (Motriz):** Composta por **cinco ondas** (numeradas de 1 a 5) que se movem na direção da tendência principal. As ondas 1, 3 e 5 são de avanço, enquanto as ondas 2 e 4 são pequenas correções internas.
-*   **Fase Corretiva:** Composta por **três ondas** (letras A, B e C) que se movem contra a tendência anterior, corrigindo o movimento das cinco ondas iniciais.
-
-### 2. As Três Regras Inegociáveis
-Para que uma contagem de ondas de impulso seja considerada válida, ela deve respeitar rigorosamente três regras:
-1.  **Regra da Onda 2:** A onda 2 nunca pode retrair mais de 100% da onda 1 (ou seja, não pode ultrapassar o início da onda 1).
-2.  **Regra da Onda 3:** Entre as ondas de impulso (1, 3 e 5), a **onda 3 nunca pode ser a menor** delas. Frequentemente, ela é a mais longa e poderosa.
-3.  **Regra da Onda 4:** A onda 4 não pode entrar no território de preço da onda 1 (exceto em formações raras chamadas triângulos diagonais).
-
-### 3. Natureza Fractal e Graus de Onda
-A teoria é **fractal**, o que significa que os padrões se repetem em todas as escalas de tempo. Uma única onda de um gráfico diário pode ser decomposta em cinco ondas menores em um gráfico de 1 hora. Elliott identificou nove graus de ondas, desde o "Grand Supercycle" (que dura séculos) até o "Subminuette" (que dura minutos).
-
-### 4. Relação com Fibonacci
-As ondas de Elliott estão profundamente ligadas à **sequência de Fibonacci** para prever alvos de preço e níveis de correção. 
-*   **Retrações:** A onda 2 costuma corrigir entre **50% e 61,8%** da onda 1. A onda 4 geralmente corrige cerca de **38,2%** da onda 3.
-*   **Extensões:** A onda 3 frequentemente atinge **161,8%** (a Razão Áurea) ou mais do comprimento da onda 1.
-
-### 5. Personalidade das Ondas
-Cada onda reflete um estado emocional do mercado:
-*   **Onda 1:** Frequentemente difícil de identificar, pois surge após uma tendência de baixa, cercada de ceticismo.
-*   **Onda 3:** É a **onda do dinheiro**. É o movimento mais forte, com alto volume e participação clara dos investidores.
-*   **Onda 5:** O empurrão final. É marcada por otimismo extremo, mas muitas vezes apresenta **divergências** em indicadores como o RSI ou MACD, sinalizando que a tendência está perdendo força.
-*   **Ondas Corretivas (ABC):** Podem assumir formas variadas, como **Ziguezagues** (fortes correções), **Flats** (movimentos laterais) ou **Triângulos** (consolidação antes de um novo impulso)."
-
-📉 Problema:
-Resposta muito genérica.
+**Problema:**
+Resposta muito genérica e pouco aprofundada.
 
 ---
 
 ### 🔹 Prompt 2 (melhorado)
 
-> "Explique as Ondas de Elliott com exemplos práticos e linguagem simples"
-> "A Teoria das Ondas de Elliott é um modelo de análise técnica que interpreta os movimentos do mercado como padrões repetitivos baseados na **psicologia das massas**, oscilando entre o otimismo e o pessimismo. Ralph Nelson Elliott descobriu que os preços não se movem de forma aleatória, mas seguem um ritmo natural de **cinco ondas a favor da tendência** e **três ondas contra ela**.
+**Prompt:**
+> Explique as Ondas de Elliott com exemplos práticos e linguagem simples
 
-### 1. A Estrutura Básica (Ciclo 5-3)
-O ciclo completo de mercado é composto por oito ondas principais:
-*   **Fase de Impulso (1, 2, 3, 4, 5):** São as ondas que "empurram" o mercado na direção principal. As ondas 1, 3 e 5 são de avanço, enquanto a 2 e a 4 são pequenas pausas.
-*   **Fase Corretiva (A, B, C):** Ocorre após o impulso, funcionando como um "respiro" do mercado antes de retomar a tendência.
+**Trecho da resposta:**
+"A Teoria das Ondas de Elliott é um modelo de análise técnica que interpreta os movimentos do mercado como padrões repetitivos baseados na psicologia das massas..."
 
-### 2. As Três Regras Inegociáveis
-Para que uma contagem de ondas de impulso seja válida, ela deve respeitar rigorosamente estas regras:
-1.  **Regra da Onda 2:** A onda 2 nunca pode cair abaixo do ponto onde a onda 1 começou.
-2.  **Regra da Onda 3:** Entre as ondas de impulso (1, 3 e 5), a **onda 3 nunca pode ser a menor** de todas; ela é geralmente a mais longa e poderosa.
-3.  **Regra da Onda 4:** A onda 4 não pode entrar no território de preço ocupado pela onda 1 (exceto em formações raras chamadas triângulos diagonais).
-
-### 3. Exemplos Práticos e Personalidade das Ondas
-Cada fase reflete uma emoção humana diferente:
-*   **Onda 1 (Início):** É difícil de identificar porque surge no meio de notícias ruins, quando poucos acreditam na reversão.
-*   **Onda 3 (A "Onda do Dinheiro"):** É o movimento mais forte e fácil de reconhecer. **Exemplo prático:** No gráfico do **Bitcoin**, o rompimento de um topo anterior após uma queda prolongada costuma marcar o início de uma Onda 3 poderosa, onde o volume financeiro explode e as instituições entram comprando pesado.
-*   **Onda 5 (Euforia final):** O preço sobe com otimismo extremo, mas com menos força que a onda 3.
-*   **Onda C (O Desespero):** É a fase final da correção, onde o medo toma conta e o preço cai de forma devastadora.
-
-### 4. A Natureza Fractal (O Brócolis do Mercado)
-As ondas de Elliott são **fractais**, o que significa que o padrão se repete em qualquer escala de tempo. Uma comparação simples é com um **brócolis**: se você destacar um pequeno pedaço dele, ele terá o mesmo formato da cabeça de brócolis inteira. Da mesma forma, uma onda "mestra" de um gráfico diário é composta por várias ondas menores de 5 e 15 minutos que seguem o mesmo desenho.
-
-### 5. Como usar com Fibonacci
-Traders usam a ferramenta de Fibonacci para prever até onde o preço pode ir:
-*   **Entrada:** A **Onda 2** costuma recuar entre **50% e 61,8%** do tamanho da Onda 1, oferecendo uma ótima oportunidade de compra para surfar a Onda 3.
-*   **Alvo:** A **Onda 3** frequentemente atinge **161,8%** (a Razão Áurea) do comprimento da Onda 1."
-
-✅ Resultado:
-Mais didático, porém ficou mais superficial.
+**Resultado:**
+Mais didático, porém ainda superficial e com poucos exemplos práticos.
 
 ---
 
 ### 🔹 Prompt 3 (refinado)
 
-> "Explique detalhadamente as 5 ondas de impulso e 3 de correção, com exemplos aplicados ao mercado financeiro"
-> "A Teoria das Ondas de Elliott propõe que o mercado financeiro se move em ciclos repetitivos de **oito ondas**, compostos por uma **fase motriz de cinco ondas** que seguem a tendência principal e uma **fase corretiva de três ondas** que se movem contra ela. Esses padrões são fractais, o que significa que cada onda pode ser subdividida em ondas menores que seguem a mesma estrutura.
+**Prompt:**
+> Explique detalhadamente as 5 ondas de impulso e 3 de correção, com exemplos aplicados ao mercado financeiro
 
-### As 5 Ondas de Impulso (Fase Motriz)
-As ondas de impulso (numeradas de 1 a 5) são responsáveis pelo progresso direcional do mercado. Elas devem seguir três regras básicas e inegociáveis para serem consideradas válidas: a **Onda 2** nunca pode retrair mais de 100% da Onda 1; a **Onda 3** nunca pode ser a menor das ondas impulsivas (1, 3 e 5); e a **Onda 4** não pode entrar no território de preço da Onda 1 (exceto em formações raras chamadas diagonais).
+**Trecho da resposta:**
+"A Teoria das Ondas de Elliott propõe que o mercado financeiro se move em ciclos repetitivos de oito ondas..."
 
-*   **Onda 1 (Início):** É frequentemente difícil de identificar no começo, pois surge após uma tendência de baixa e as notícias fundamentais ainda costumam ser negativas. Ela representa o primeiro movimento de acumulação por investidores institucionais.
-*   **Onda 2 (Retração):** Corrige a Onda 1 através de uma venda por investidores céticos que acreditam que a tendência anterior voltará. Ela costuma retrair entre **50% e 61,8%** da Onda 1, mas nunca deve ultrapassar o seu início.
-*   **Onda 3 (A "Onda do Dinheiro"):** É geralmente a mais forte, longa e dinâmica de todo o ciclo. Neste ponto, a confiança retorna, o volume aumenta e a maioria dos investidores reconhece a nova tendência, resultando em rompimentos de topos e gaps de alta.
-*   **Onda 4 (Consolidação):** É uma fase de realização de lucros e movimento lateral, frequentemente frustrante pela falta de progresso. Pela **regra da alternância**, se a Onda 2 foi rápida e profunda, a Onda 4 tende a ser lateral, complexa e rasa, raramente corrigindo mais de 38,2% da Onda 3.
-*   **Onda 5 (Euforia Final):** Representa o último empurrão na direção da tendência. Embora os preços atinjam novos máximos, o volume e o ímpeto costumam ser menores do que na Onda 3, resultando em **divergências** em indicadores como o RSI.
-
-### As 3 Ondas de Correção (Fase Corretiva)
-As correções são rotuladas pelas letras **A, B e C** e servem para neutralizar os excessos da fase de impulso. Elas são mais variadas e complexas do que as ondas motrizes.
-
-*   **Onda A:** É o primeiro sinal de fraqueza da tendência, mas muitos investidores a confundem com um simples recuo antes de novas altas. Ela pode ter uma estrutura de 5 sub-ondas (em um **Ziguezague**) ou 3 sub-ondas (em um **Flat**).
-*   **Onda B (Armadilha de Touros):** É um rali enganoso que dá a falsa esperança de que a tendência original foi retomada. Ela apresenta volume baixo e geralmente não supera o topo da Onda 5 (exceto em flats expandidos).
-*   **Onda C (Capitulação):** É a fase final da correção, onde as ilusões de alta desaparecem e o medo domina o mercado. A Onda C é quase sempre um movimento impulsivo de 5 ondas e costuma ser devastadora em sua queda.
-
-### Exemplos Aplicados ao Mercado Financeiro
-1.  **Bitcoin (BTC):** No gráfico diário, o rompimento de um topo válido após uma queda prolongada pode marcar o início de uma Onda 3 poderosa, como ocorreu quando o preço superou consolidações históricas com explosão de volume.
-2.  **Ações da Reliance Industries:** O ativo demonstrou um padrão clássico de 5 ondas de impulso em gráficos mensais, onde a Onda 3 foi claramente a mais longa e evidente, permitindo que traders antecipassem a reversão na Onda 4.
-3.  **Café (Commodities):** A explosão de preços do café entre 1975 e 1977 seguiu um padrão Elliott inconfundível, onde a Onda 3 atingiu alvos precisos de Fibonacci de 1,618 em relação à Onda 1 antes de uma correção severa.
-4.  **Índice Bovespa (IBOV):** Em movimentos de alta prolongada, o índice costuma formar Ondas 4 laterais que duram meses, alternando com Ondas 2 que foram rápidas correções em formato de "V", respeitando o princípio da alternância.
-5.  **Ouro:** Durante crises de confiança no dólar, o ouro formou impulsos de 5 ondas com a **Onda 5 estendida**, refletindo a psicologia do pânico e da busca por proteção (fear extension), comum em commodities."
-
-🔥 Resultado:
-Resposta completa e útil.
+**Resultado:**
+Resposta completa, estruturada e com maior aplicabilidade prática.
 
 ---
 
 ### 💡 Dificuldades encontradas
 
-* IA respondia de forma superficial
-* Falta de exemplos reais
-* Necessidade de refinar prompts
+- IA respondia de forma superficial
+- Falta de exemplos reais
+- Necessidade de refinar prompts
 
 ---
 
@@ -316,6 +249,15 @@ As **Ondas Corretivas (A–B–C)** ocorrem após a conclusão de um ciclo de im
 
 ---
 
+# 🚀 Aprendizados com o Projeto
+
+- A importância de refinar prompts para obter respostas melhores
+- Como a IA pode acelerar o aprendizado quando bem utilizada
+- Diferença entre conhecimento superficial e aprofundado
+- Aplicação prática da teoria no mercado financeiro
+
+---
+
 # 🧩 5. Conclusão
 
 Neste projeto, aprofundei meu entendimento sobre a teoria das Ondas de Elliott, compreendendo com mais clareza a estrutura das ondas, suas regras fundamentais e as diferentes variações que podem ocorrer no mercado. Esse processo foi essencial para desenvolver uma visão mais analítica sobre os movimentos de preço e o comportamento do mercado financeiro.
@@ -327,5 +269,11 @@ Além disso, a utilização das ferramentas do Estúdio do NotebookLM, como a cr
 Outro ponto importante foi a prática de engenharia de prompts, que evidenciou a importância de interagir com a IA de forma estratégica, refinando perguntas para obter respostas mais relevantes, detalhadas e úteis para o estudo.
 
 Como próximo passo, pretendo continuar utilizando o NotebookLM para aprofundar meus estudos em conceitos mais avançados de análise de mercado, como o Smart Money Concept (SMC), ampliando ainda mais minha base de conhecimento e capacidade analítica.
+
+---
+
+# 🔗 Entrega do Projeto
+
+Repositório desenvolvido como parte do desafio prático da DIO, com foco no uso de IA para aprendizado estruturado.
 
 ---
